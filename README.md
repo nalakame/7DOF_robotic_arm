@@ -12,6 +12,5 @@ In this notebook development of a 7 DOF robotic manipulator is presented. This i
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  howpublished = {\url{[https://github.com/charlespwd/project-title](https://github.com/nalakame/7DOF_robotic_arm)}}
 }
